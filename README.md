@@ -2,6 +2,13 @@
 
 CocoaInCoffee is an experimental project to use CoffeeScript in Objective-C and call Objective-C class and method in CoffeeScript when building App.
 
+###Run the demo###
+1. git clone https://github.com/NilStack/CocoaInCoffee.git
+2. cd CocoaInCoffee
+3. pod install
+4. open CocoaInCoffeeDemo.xcworkspace
+5. build & run
+
 ###Demo###
 
 The first demo is a simple CoffeeScript.
