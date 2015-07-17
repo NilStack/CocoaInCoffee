@@ -1,0 +1,1 @@
+alertView=require("UIAlertView").alloc().init()\nalertView.setTitle("Alert")\nalertView.setMessage("AlertView from CoffeeScript")\nalertView.addButtonWithTitle("OK")\nalertView.show()

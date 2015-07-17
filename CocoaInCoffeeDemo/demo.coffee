@@ -1,0 +1,1 @@
+square=(x)->x*x\ncube=(x)->square(x)*x\nsquare(5)
